@@ -1,2 +1,2 @@
 # Python-Projects
-A composition of various projects written in Python.
+A composition of my personal projects written in Python.
