@@ -1,3 +1,1 @@
-# Python-Projects
-A composition of Python projects to improve and track progression of
-skill with the language.
+This repository is a combination of python projects that demonstrates my level of skill with the language. 
